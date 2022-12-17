@@ -1,0 +1,27 @@
+{
+  "name": "apna-chat",
+  "version": "1.0.0",
+  "description": "Apna Chat ... India ka Chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupamgupta-github/Apna-Chat.git"
+  },
+  "keywords": [
+    "Chat"
+  ],
+  "author": "Rupam Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupamgupta-github/Apna-Chat/issues"
+  },
+  "homepage": "https://github.com/rupamgupta-github/Apna-Chat#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
